@@ -6,10 +6,10 @@ The dataset provides information on customers who have purchased or not purchase
 ## Project Description
 The SQL queries in this project focus on providing useful insights related to bike purchases. The analysis includes:
 
-**Total Bikes Purchased:** Count the number of bikes purchased.
-**Purchase by Age Group:** Count the number of purchases by different age groups.
-**Purchase by Region:** Analyze the number of bike purchases across various regions.
-**Bike Purchases by Marital Status:** Group purchases by marital status.
-**Bike Purchases by Income:** Group purchases by customer income.
-**Bike Purchases by Commute Distance:** Analyze bike purchases based on commute distance.
-**Bike Purchases by Number of Cars Owned:** Look at how the number of cars owned impacts bike purchases.
+- **Total Bikes Purchased:** Count the number of bikes purchased.
+- **Purchase by Age Group:** Count the number of purchases by different age groups.
+- **Purchase by Region:** Analyze the number of bike purchases across various regions.
+- **Bike Purchases by Marital Status:** Group purchases by marital status.
+- **Bike Purchases by Income:** Group purchases by customer income.
+- **Bike Purchases by Commute Distance:** Analyze bike purchases based on commute distance.
+- **Bike Purchases by Number of Cars Owned:** Look at how the number of cars owned impacts bike purchases.
