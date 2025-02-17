@@ -15,8 +15,8 @@ The SQL queries in this project focus on providing useful insights related to bi
 - **Bike Purchases by Number of Cars Owned:** Look at how the number of cars owned impacts bike purchases.
 - 
 # Bike Purchase Analysis Summary
-- ** Out of the 1,026 samples, 495 were purchased, which is about 48.2% of the total bikes. **
-- ** The **Middle Age** group has the highest bike purchases with **631** bikes, followed by the **Old** group with **283** bikes, and the **Adolescent** group with the lowest at **112** bikes. **
+- Out of the 1,026 samples, 495 were purchased, which is about 48.2% of the total bikes.
+- The **Middle Age** group has the highest bike purchases with **631** bikes, followed by the **Old** group with **283** bikes, and the **Adolescent** group with the lowest at **112** bikes. 
   
 
 
